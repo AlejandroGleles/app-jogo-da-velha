@@ -28,4 +28,4 @@ Para rodar o projeto localmente, siga os passos abaixo:
    ```bash!
 
    git clone https://github.com/AlejandroGleles/app-jogo-da-velha.git
-[Captura de tela 2024-11-04 220856](https://github.com/user-attachments/assets/53e590f5-a65e-40a6-adb1-1113b80c432e)
+![Captura de tela 2024-11-04 220856](https://github.com/user-attachments/assets/85f46f19-9c24-4a78-bdb2-92658ed6425d)
